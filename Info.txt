@@ -1,0 +1,5 @@
+Hay otros comandos como:
+git status
+git clone 
+git push 
+etc
